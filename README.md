@@ -12,9 +12,6 @@ To run this project on your machine you need to install Microsoft Power Bi.
 # Tools
 Microsoft Power BI
 
-# Badges
-Power Bi YouTube
-
 # Project Learnings
  1. Created an interactive dashboard to track and analyze online sales data.
  2. Used complex parameters to drill down in worksheet and customization using filters and slicers.
