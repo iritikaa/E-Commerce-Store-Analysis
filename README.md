@@ -11,9 +11,6 @@ To run this project on your machine you need to install Microsoft Power Bi.
 # Tools
 Microsoft Power BI
 
-# Credits
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
-
 # Badges
 Power Bi YouTube
 
